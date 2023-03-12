@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956377495963",
+    "project_id": "cloud-74fcd",
+    "storage_bucket": "cloud-74fcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956377495963:android:1912f8233e0fc8eac6493e",
+        "android_client_info": {
+          "package_name": "com.example.cloudlec3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956377495963-opnn0p3oi37j6e1o76otisah1iivdbtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF6HSqfwr96My9E_f_hy9yT_S-iVYihl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956377495963-opnn0p3oi37j6e1o76otisah1iivdbtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
