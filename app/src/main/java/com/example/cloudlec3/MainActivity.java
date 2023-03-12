@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onFailure(@Nullable Exception e) {
 
-                        Toast.makeText(MainActivity.this, "uploadFailed", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity.this, "uploadFailed!", Toast.LENGTH_SHORT).show();
 
                     }
 
